@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/flamegrowl/Dokumente/vscode-Projects/NeoCraft/NeoCraft/NeoCraft.csproj",
+      "projectUniqueName": "/home/flamegrowl/Dokumente/vscode projects/NeoCraft/NeoCraft/NeoCraft/NeoCraft.csproj",
       "projectName": "NeoCraft",
-      "projectPath": "/home/flamegrowl/Dokumente/vscode-Projects/NeoCraft/NeoCraft/NeoCraft.csproj",
+      "projectPath": "/home/flamegrowl/Dokumente/vscode projects/NeoCraft/NeoCraft/NeoCraft/NeoCraft.csproj",
       "packagesPath": "/home/flamegrowl/.nuget/packages/",
-      "outputPath": "/home/flamegrowl/Dokumente/vscode-Projects/NeoCraft/NeoCraft/obj/",
+      "outputPath": "/home/flamegrowl/Dokumente/vscode projects/NeoCraft/NeoCraft/NeoCraft/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/flamegrowl/.nuget/NuGet/NuGet.Config"

@@ -12,3 +12,4 @@
 /home/flamegrowl/Dokumente/vscode-Projects/NeoCraft/NeoCraft/obj/Debug/net9.0/NeoCraft.pdb
 /home/flamegrowl/Dokumente/vscode-Projects/NeoCraft/NeoCraft/obj/Debug/net9.0/NeoCraft.genruntimeconfig.cache
 /home/flamegrowl/Dokumente/vscode-Projects/NeoCraft/NeoCraft/obj/Debug/net9.0/ref/NeoCraft.dll
+/home/flamegrowl/Dokumente/vscode-Projects/NeoCraft/NeoCraft/obj/Debug/net9.0/NeoCraft.sourcelink.json

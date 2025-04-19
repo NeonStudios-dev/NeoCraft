@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeoCraft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9fbf572dfa23afa7f10be1a9587cccd76743a11")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeoCraft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeoCraft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
